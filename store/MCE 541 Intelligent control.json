@@ -1,0 +1,5 @@
+{
+  "title": "MCE 541 Intelligent control",
+  "body": "...\nin a fuzzy logic system there are 3 major component\n\nfor an inference there has to be an input and an output\ncriss input and output:\n\t- input gotten from the sensor\n\t- not based on natural language\n\t- final aggregation is the criss logic\n\na fuzzfier and a defuzzfier \n\t- converting criss input into a fuzzy logic\n\t\nmembership function: converts from 0-1\n\t- input and output can have multiple membership function\n\t- have trapiziodai, gussian and triangular for determining membership function\n\n**fuzzy inference system (FIS)**\nhandles the entire control scheme\nof two types \n- mandani fis fuzzy set based on... could be a range of value (0-9) requires more complication\n- sugeno fis membership... a constant value or function of the input (3,4) more difficult to implement\n\nnext class\nfuzzy logic control\nand fuzzy logic using pid\n\nfuzzy logic helps deals with uncertainty\nfuzzy rules drive the fuzzy logic",
+  "created_at": "2024-11-04T15:09:23.615015373+01:00"
+}

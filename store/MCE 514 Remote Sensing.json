@@ -1,0 +1,5 @@
+{
+  "title": "MCE 514 Remote Sensing",
+  "body": "\nbinary image 1,0\ngrey scale 0-255 2.channel\ncolor image 0.255 3-channel\npixel smallest element of a picture\nPicture of an image is represented as a box having numerical value \npixel means picture element\naquisition can be done with a camera and usually suffers from noise\n",
+  "created_at": "2024-11-04T15:08:56.141209854+01:00"
+}
